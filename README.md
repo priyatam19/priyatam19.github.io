@@ -129,9 +129,10 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📞 Contact
 
 **Priyatam Annambhotla**
-- Email: priyatam@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: priyatam@vt.edu
+- LinkedIn: [Priyatam Annambhotla](https://www.linkedin.com/in/priyatam-annambhotla-28b411202/)
 - GitHub: [priyatam19](https://github.com/priyatam19)
+- Instagram: [_.priyatam._](https://www.instagram.com/_.priyatam._/)
 
 ---
 
